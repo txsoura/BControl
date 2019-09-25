@@ -1,2 +1,2 @@
 # BControl
-Sistema de gestão de vendas e estoque
+Sales and stock manager system

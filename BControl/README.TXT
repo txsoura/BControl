@@ -1,21 +1,20 @@
-BControl | Sistema de gestão de vendas e estoque
+BControl | Sales and stock maneger system / Sistema de gestÃ£o de vendas e estoque
 ===========================================================================================================================
-Como prosseguir com a instalação?
+How to proceed with the installation? / Como prosseguir com a instalaÃ§Ã£o?
 *********************************
-Para usar o sistema, tem de seguir os seguintes passos:
-•	Instalar o JDK e Xampp que se encontram na pasta “other”;
-•	Reiniciar o computador;
-•	Apos a reinicialização do computador, é só abrir o Xampp, e inicializar o Apache e MySQL.
+To use the system, you must follow these steps: / Para usar o sistema, tem de seguir os seguintes passos:
+â€¢	Install JDK and Xampp which are in the â€œotherâ€ folder; / Instalar o JDK e Xampp que se encontram na pasta â€œotherâ€;
+â€¢	Restart the computer; / Reiniciar o computador;
+â€¢	After rebooting, just open Xampp, and boot Apache and MySQL. / ApÃ³s a reinicializaÃ§Ã£o do computador, Ã© sÃ³ abrir o Xampp, e inicializar o Apache e MySQL.
 ======================================================================================================================================================================
-Como configurar o MySQL?
+How to configure MySQL? / Como configurar o MySQL?
 ************************
-Para configurar o MySQL, basta abrir o navegador apor iniciar o Xampp (Apache e MySQL), e digitar “localhost/phpmyadmin” e seguir as seguintes instruções:
-•	Pressionar “New” no menu lateral esquerdo;
-•	Escrever “bcontrol” no campo Database name;
-•	Selecionar “utf8_general_ci” no campo collection e pressionar “create”;
-•	Selecionar a opção “import” no menu superior;
-•	Na opção “browse” selecionar o ficheiro “bcontrol.sql” que se encontra na pasta “other” do sistema e pressionar “go”;
+To configure MySQL, simply open the browser after launching Xampp (Apache and MySQL), and type "localhost / phpmyadmin" and follow these instructions: / Para configurar o MySQL, basta abrir o navegador apor iniciar o Xampp (Apache e MySQL), e digitar â€œlocalhost/phpmyadminâ€ e seguir as seguintes instruÃ§Ãµes:
+â€¢	Press "New" in the left side menu; / Pressionar â€œNewâ€ no menu lateral esquerdo;
+â€¢	Type â€œbcontrolâ€ in the field Database name; / Escrever â€œbcontrolâ€ no campo Database name;
+â€¢	Select â€œutf8_general_ciâ€ in the collection field and press â€œcreateâ€; / Selecionar â€œutf8_general_ciâ€ no campo collection e pressionar â€œcreateâ€;
+â€¢	Select the â€œimportâ€ option from the top menu; / Selecionar a opÃ§Ã£o â€œimportâ€ no menu superior;
+â€¢	In the â€œbrowseâ€ option select the â€œbcontrol.sqlâ€ file in the â€œotherâ€ folder of the system and press â€œgoâ€; / Na opÃ§Ã£o â€œbrowseâ€ selecionar o ficheiro â€œbcontrol.sqlâ€ que se encontra na pasta â€œotherâ€ do sistema e pressionar â€œgoâ€;
 
 
-*Apos todos os passos anteriores, é só abrir o aplicativo BControl, para poder usar o sistema.  
-
+*After all the previous steps, just open the BControl application in order to use the system. / ApÃ³s todos os passos anteriores, Ã© sÃ³ abrir o aplicativo BControl, para poder usar o sistema.  
